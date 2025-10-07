@@ -1,0 +1,13 @@
+{
+  "name": "Sunkissed",
+  "extension": "jdinhlife.gruvbox",
+  "theme": {
+    "base": "vs-dark",
+    "inherit": true,
+    "rules": [],
+    "colors": {
+      "editor.background": "#2d2013",
+      "editor.foreground": "#f0d9b5"
+    }
+  }
+}
